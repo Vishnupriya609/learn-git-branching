@@ -22,8 +22,13 @@ $ git branch newImage
 ~~~
 The branch newImage now refers to commit C1.<br>
 <img width="215" height="280" align ="left" alt="Screenshot 2025-12-23 075133" src="https://github.com/user-attachments/assets/4667a2b7-d0e1-4e48-90b7-f98673fd1c58" />
-
-
+Let's tell git we want to checkout the branch with
+git checkout <name>
+This will put us on the new branch before committing our changes.
+~~~
+$ git checkout newImage; git commit
+~~~
+<img width="196" height="468" alt="Screenshot 2025-12-23 110101" src="https://github.com/user-attachments/assets/72afb014-d59f-4dc3-af56-5c6e0bdb9a3d" />
 
 
 
