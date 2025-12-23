@@ -49,7 +49,17 @@ If we want to merge the branch bugFix into main then use below command:
 $ git merge bugFix
 ~~~
 <img width="363" height="452" align="left" alt="Screenshot 2025-12-23 123255" src="https://github.com/user-attachments/assets/e1282930-e65f-4e42-9ab1-ae842f79f86a" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-After merging,main now contains all commits in the repository, while bugFix is not included yet—so let’s merge it next.
+After merging,main now contains all commits in the repository, while bugFix is not included.<br>
+Let's merge main into bugFix.
+~~~
+$ git checkout bugFix; git merge main
+~~~
+<img width="305" height="480" align="left"alt="Screenshot 2025-12-23 124137" src="https://github.com/user-attachments/assets/fc2e5a41-ab5a-431b-bf88-53c4a04f758b" /><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
 
 
 
