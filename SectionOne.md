@@ -38,9 +38,9 @@ $ git branch bugfix
 $ git checkout bugfix
 ~~~
 <img width="1920" height="968" alt="Screenshot 2025-12-23 111933" src="https://github.com/user-attachments/assets/908907c5-c315-4597-ac73-a64fdb9f119a" />
-## Level3:Git Merge
+## Level 3:Git Merge
 Git merge helps us do this by creating a special commit that joins the history of two branches into one.<br>
-For Example:
+For Example:<br>
 Here we have two branches; each has one commit that's unique.
 
 
