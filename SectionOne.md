@@ -43,7 +43,7 @@ $ git checkout bugfix
 Git merge helps us do this by creating a special commit that joins the history of two branches into one.<br>
 For Example:<br>
 Here we have two branches; each has one commit that's unique.
-<img width="403" height="469" align="left" alt="Screenshot 2025-12-23 120926" src="https://github.com/user-attachments/assets/e2c526da-685f-40ea-904a-5f08ef0860ed" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img width="403" height="469" align="left" alt="Screenshot 2025-12-23 120926" src="https://github.com/user-attachments/assets/e2c526da-685f-40ea-904a-5f08ef0860ed" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 If we want to merge the branch with bugfix then use below command:
 ~~~
 $ git merge bugfix
