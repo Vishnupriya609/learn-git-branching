@@ -31,7 +31,12 @@ $ git checkout newImage; git commit
 <img width="196" height="300" align="left" alt="Screenshot 2025-12-23 110101" src="https://github.com/user-attachments/assets/72afb014-d59f-4dc3-af56-5c6e0bdb9a3d" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Lets practice problem on git branching
 <img width="1920" height="978" alt="Screenshot 2025-12-23 110622" src="https://github.com/user-attachments/assets/9fd6df74-331d-4d4c-9a61-35d606190981" />
-
+The goal shows the create new branchname is bugfix & checkout the branch for bugfix for that use below commands.
+~~~
+$ git branch bugfix
+$ git checkout bugfix
+~~~
+<img width="1920" height="968" alt="Screenshot 2025-12-23 111933" src="https://github.com/user-attachments/assets/908907c5-c315-4597-ac73-a64fdb9f119a" />
 
 
 
