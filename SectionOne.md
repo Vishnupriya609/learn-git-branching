@@ -5,7 +5,7 @@ It is understand  about git commands and practice problems
 A commit in a git repository records a snapshot of all the (tracked) files in your directory.
 <img width="1920" height="966" alt="Screenshot 2025-12-23 072232" src="https://github.com/user-attachments/assets/689108b6-0b83-456b-9dd3-b708e42ba17a" />
 The goal shows there are three commits -- the first inital commit -C0,second commit after that C1,third commit after C2, that might have some meaningful changes.
-To complete this problem we need below command & Use two times.
+To complete this problem use below command two times.
 ~~~
 $ git commit
 ~~~
@@ -31,7 +31,7 @@ $ git checkout newImage; git commit
 <img width="196" height="300" align="left" alt="Screenshot 2025-12-23 110101" src="https://github.com/user-attachments/assets/72afb014-d59f-4dc3-af56-5c6e0bdb9a3d" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Lets practice problem on git branching
 <img width="1920" height="978" alt="Screenshot 2025-12-23 110622" src="https://github.com/user-attachments/assets/9fd6df74-331d-4d4c-9a61-35d606190981" />
-The goal shows the create new branchname is bugfix & checkout the branch for bugfix for that use below commands.
+The goal shows the create new branchname is bugfix & checkout the branch for bugfix for solving the problem use below commands.
 ~~~
 $ git branch bugfix
 $ git checkout bugfix
