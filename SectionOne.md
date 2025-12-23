@@ -56,6 +56,7 @@ $ git checkout bugFix; git merge main
 ~~~
 
 <img width="305" height="480" align="left" alt="Screenshot 2025-12-23 124137" src="https://github.com/user-attachments/assets/fc2e5a41-ab5a-431b-bf88-53c4a04f758b" /><br><br><br><br><br><br><br><br><br><br><br><br>
+Let's Practice problem
 
 
 
