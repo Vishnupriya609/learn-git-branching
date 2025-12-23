@@ -9,7 +9,9 @@ To complete this problem we need below command & Use two times.
 ~~~
 $ git commit
 ~~~
-<img width="1920" height="1080" alt="Screenshot 2025-12-18 081658" src="https://github.com/user-attachments/assets/da11bccf-630a-42b6-960c-0588af0bc04a" />
+<img width="1920" height="955" alt="Screenshot 2025-12-18 081658" src="https://github.com/user-attachments/assets/47c0c7da-6f4a-4d44-91d1-11c276a44dc1" />
+
+
 
 
 
