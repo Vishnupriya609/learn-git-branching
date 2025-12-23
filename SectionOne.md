@@ -44,10 +44,12 @@ Git merge helps us do this by creating a special commit that joins the history o
 For Example:<br>
 Here we have two branches; each has one commit that's unique.
 <img width="403" height="469" align="left" alt="Screenshot 2025-12-23 120926" src="https://github.com/user-attachments/assets/e2c526da-685f-40ea-904a-5f08ef0860ed" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-If we want to merge the branch with bugFix then use below command:
+If we want to merge the branch bugFix into main then use below command:
 ~~~
 $ git merge bugFix
 ~~~
+<img width="363" height="452" align="left" alt="Screenshot 2025-12-23 123255" src="https://github.com/user-attachments/assets/e1282930-e65f-4e42-9ab1-ae842f79f86a" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
+After merging,main now contains all commits in the repository, while bugFix is not included yet—so let’s merge it next.
 
 
 
