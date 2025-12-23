@@ -10,6 +10,7 @@ To complete this problem we need below command & Use two times.
 $ git commit
 ~~~
 <img width="1920" height="955" alt="Screenshot 2025-12-18 081658" src="https://github.com/user-attachments/assets/47c0c7da-6f4a-4d44-91d1-11c276a44dc1" />
+
 ## Level 2:Git Branches
 Branches in Git are very lightweight because they are just pointers to specific commits.
 Since they don’t use extra storage, developers can create many branches to organize work easily.
