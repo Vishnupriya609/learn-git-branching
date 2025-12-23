@@ -13,7 +13,7 @@ $ git commit
 
 ## Level 2:Git Branches
 Branches in Git are very lightweight because they are just pointers to specific commits.
-Since they don’t use extra storage, developers can create many branches to organize work easily.
+Since they don’t use extra storage, developers can create many branches to organize work easily.<br>
 For Example:
 
 <img width="215" height="290" align="left" alt="Screenshot 2025-12-23 075056" src="https://github.com/user-attachments/assets/12254a46-9485-4abf-aea9-f2b29ddbb93e" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -38,6 +38,10 @@ $ git branch bugfix
 $ git checkout bugfix
 ~~~
 <img width="1920" height="968" alt="Screenshot 2025-12-23 111933" src="https://github.com/user-attachments/assets/908907c5-c315-4597-ac73-a64fdb9f119a" />
+## Level3:Git Merge
+Git merge helps us do this by creating a special commit that joins the history of two branches into one.<br>
+For Example:
+Here we have two branches; each has one commit that's unique.
 
 
 
