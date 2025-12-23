@@ -15,7 +15,7 @@ $ git commit
 Branches in Git are very lightweight because they are just pointers to specific commits.
 Since they don’t use extra storage, developers can create many branches to organize work easily.
 
-<img width="215" height="290" align="left" alt="Screenshot 2025-12-23 075056" src="https://github.com/user-attachments/assets/12254a46-9485-4abf-aea9-f2b29ddbb93e" /><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img width="215" height="290" align="left" alt="Screenshot 2025-12-23 075056" src="https://github.com/user-attachments/assets/12254a46-9485-4abf-aea9-f2b29ddbb93e" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 There is main branch.If we want to create new branch then use below command.
 ~~~
 $ git branch newImage
