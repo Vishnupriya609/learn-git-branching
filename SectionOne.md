@@ -24,6 +24,8 @@ Since they don’t use extra storage, developers can create many branches to org
 
 
 
+
+
 There is main branch.If we want to create new branch then use below command.
 ~~~
 $ git branch newImage
